@@ -1,0 +1,180 @@
+.p1-5 header .mspfalogo {
+	background-image: url("https://orig00.deviantart.net/5988/f/2018/211/1/a/nascencylogo_by_nascencyteam-dcirnu5.gif") !important;
+	background-color: transparent !important;
+	border-color: transparent;
+	background-size: contain;
+	max-height: 150px;
+	max-width: 250px;
+	float: left;
+	}
+.p8-1000 header .mspfalogo {
+	background-image: url("https://orig00.deviantart.net/5988/f/2018/211/1/a/nascencylogo_by_nascencyteam-dcirnu5.gif") !important;
+	background-color: transparent !important;
+	border-color: transparent;
+	background-size: contain;
+	max-height: 150px;
+	max-width: 250px;
+	float: left;
+	}
+.p6-7 header .mspfalogo {
+	display: none;
+	}
+.p1-31 footer .mspfalogo {
+	display: none;
+	}
+.p32-1000 footer .mspfalogo {
+	background-image: url("http://sigrotor.com/rotas/3032") !important;
+	background-color: transparent !important;
+	border-color: transparent !important;
+	background-size: contain;
+	max-height: 102px;
+	max-width: 208px;
+	}
+.p1-31 div#command {
+		color: #658102;
+    font-weight: bold;
+		animation: glow .5s infinite alternate;
+		z-index: 9999999999;
+		position: static;
+		text-align: center;
+}
+.p12 #command, .p12 #command {
+	font-size: 60px;
+}
+@keyframes glow {
+    to {
+        text-shadow: 0 0 20px #658102;
+    }
+}
+.p1-31 div#main {
+	background-image: none !important;
+	background-color: transparent;
+}
+.p1-31 div#container {
+	background-image: none !important;
+	background-color: transparent;
+}
+.p1-4 body, .p22-27 body {
+	background-color: #000 !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+	}
+.p6-7 body {
+	background-image: url(https://orig00.deviantart.net/a383/f/2018/212/e/1/7bg_by_nascencyteam-dciv9w4.gif) !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.p4-5 body, .p8-15 body {
+	background-image: url(https://orig00.deviantart.net/45b3/f/2018/211/7/7/dictomiaspace_by_nascencyteam-dcirnua.png) !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+	}
+.p16-21 body, .p28-30 body {
+	background-image: url(https://orig00.deviantart.net/c44e/f/2018/211/1/b/dictomiasepia_by_nascencyteam-dcirnuv.png) !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+	}
+.eight {
+    height: 100%;
+    width: 100%;
+    background-color: transparent;
+    -webkit-animation: eight 2s;
+    animation: eight 20s;
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+		pointer-events: none;
+		z-index: -9999;
+		position: static;
+}
+
+@-webkit-keyframes eight {
+    100% {
+        -webkit-transform: scale(1.5,1.5);
+    }
+}
+
+@keyframes eight {
+    100% {
+        transform: scale(1.5,1.5);
+    }
+}
+#slide {
+	background-color: transparent;
+	transparency: 80 !important;
+	color: #fcf6e1;
+	}
+nav {
+	background-color: transparent;
+	color: #658102 !important;
+	}
+nav a:link {
+	color: #658102 !important;
+	}
+nav a:visited {
+	color: #658102 !important;
+	}
+nav #notification {
+    background-color: transparent !important;
+}
+/*Syllas claws*/
+.p1-31 .heart {
+    background-image: url(https://orig00.deviantart.net/0509/f/2018/226/9/8/syllasclaws_by_nascencyteam-dck6ino.png) !important;
+		background-size: 16px 16px;
+    }
+/*Penny symbol*/
+.p32-1000 .heart {
+		    background-image: url(https://orig00.deviantart.net/28f8/f/2018/226/1/a/pennysymbol_by_nascencyteam-dck6kbj.png) !important;
+				background-size: 16px 16px;
+		    }
+a:hover {
+	text-decoration: bold;
+	}
+#loading {
+    background-image: url("https://orig00.deviantart.net/3d79/f/2018/212/e/9/loading_by_nascencyteam-dciv21s.gif") !important;
+}
+.p1-31 #um3container {
+    display: none;
+}
+.p1-31 #um4container {
+    display: none;
+}
+#discraplog .spoiler {
+    background-color: #36393E !important;
+    border: 2px solid #2F3136 !important;
+    border-radius: 3px;
+    color: #B9BABC;
+}
+
+#discraplog input[type="button"] {
+    background-color: #424549 !important;
+    border: 2px solid #686A6E !important;
+    border-radius: 3px;
+    color: #686A6E;
+    cursor: pointer;
+    outline: none !important;
+}
+syllas {
+	color: #658102 !important;
+    font-weight: bold;
+	animation: glow .5s infinite alternate;
+}
+penny {
+    color: #aa00ff !important;
+}
+seren {
+    color: #814764 !important;
+}
+cassie {
+    color: #944794 !important;
+}
+retzan {
+    color: #ada27e !important;
+}
+sai {
+    color: #656e47 !important;
+}
+zealot {
+    color: #416002 !important;
+}
