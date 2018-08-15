@@ -91,13 +91,13 @@
 
 @-webkit-keyframes eight {
     100% {
-        -webkit-transform: scale(1.5,1.5);
+        -webkit-transform: scale(1.3,1.3);
     }
 }
 
 @keyframes eight {
     100% {
-        transform: scale(1.5,1.5);
+        transform: scale(1.3,1.3);
     }
 }
 #slide {
