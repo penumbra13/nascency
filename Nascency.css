@@ -46,14 +46,23 @@
         text-shadow: 0 0 20px #658102;
     }
 }
-.p1-18 div#main {
+.p1-18 div#main, .p1-18 div#container {
 	background-image: none !important;
 	background-color: transparent;
 }
-.p1-18 div#container {
-	background-image: none !important;
-	background-color: transparent;
+.p19-30 div#main, .p19-30 div#container  {
+	background-color: #000;
 }
+.p1-18 #slide {
+	background-color: transparent;
+	transparency: 80 !important;
+	color: #fcf6e1;
+	}
+.p19-30 #slide {
+		background-color: #000;
+		transparency: 80 !important;
+		color: #000;
+		}
 .p1-4 body, .p22-27 body {
 	background-color: #000 !important;
     background-repeat: no-repeat;
@@ -100,11 +109,6 @@
         transform: scale(1.3,1.3);
     }
 }
-.p1-18 #slide {
-	background-color: transparent;
-	transparency: 80 !important;
-	color: #fcf6e1;
-	}
 nav {
 	background-color: transparent;
 	color: #658102 !important;
